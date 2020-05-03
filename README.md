@@ -9,17 +9,11 @@ This repo contains the source code of a blog project that will be used throughou
 * [Instructions](#instructions)
 * [Creator](#creators)
 
-## Instructions
-
+## Instruction
 * clone the project
 * open the index file in a browser
 
-## Creators
-
-* Richard Kalehoff
-    - [https://github.com/richardkalehoff](https://github.com/richardkalehoff)
-    - [https://twitter.com/richardkalehoff](https://twitter.com/richardkalehoff)
-
+## Creator
 With the help of:
 
 * Colt
